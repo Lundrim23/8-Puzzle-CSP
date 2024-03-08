@@ -1,0 +1,14 @@
+C:\Users\aliul\Desktop\cSharp\puzzlesolverCSP\bin\Debug\net8.0\PuzzleSolverCSP.exe
+C:\Users\aliul\Desktop\cSharp\puzzlesolverCSP\bin\Debug\net8.0\PuzzleSolverCSP.deps.json
+C:\Users\aliul\Desktop\cSharp\puzzlesolverCSP\bin\Debug\net8.0\PuzzleSolverCSP.runtimeconfig.json
+C:\Users\aliul\Desktop\cSharp\puzzlesolverCSP\bin\Debug\net8.0\PuzzleSolverCSP.dll
+C:\Users\aliul\Desktop\cSharp\puzzlesolverCSP\bin\Debug\net8.0\PuzzleSolverCSP.pdb
+C:\Users\aliul\Desktop\cSharp\puzzlesolverCSP\obj\Debug\net8.0\PuzzleSolverCSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliul\Desktop\cSharp\puzzlesolverCSP\obj\Debug\net8.0\PuzzleSolverCSP.AssemblyInfoInputs.cache
+C:\Users\aliul\Desktop\cSharp\puzzlesolverCSP\obj\Debug\net8.0\PuzzleSolverCSP.AssemblyInfo.cs
+C:\Users\aliul\Desktop\cSharp\puzzlesolverCSP\obj\Debug\net8.0\PuzzleSolverCSP.csproj.CoreCompileInputs.cache
+C:\Users\aliul\Desktop\cSharp\puzzlesolverCSP\obj\Debug\net8.0\PuzzleSolverCSP.dll
+C:\Users\aliul\Desktop\cSharp\puzzlesolverCSP\obj\Debug\net8.0\refint\PuzzleSolverCSP.dll
+C:\Users\aliul\Desktop\cSharp\puzzlesolverCSP\obj\Debug\net8.0\PuzzleSolverCSP.pdb
+C:\Users\aliul\Desktop\cSharp\puzzlesolverCSP\obj\Debug\net8.0\PuzzleSolverCSP.genruntimeconfig.cache
+C:\Users\aliul\Desktop\cSharp\puzzlesolverCSP\obj\Debug\net8.0\ref\PuzzleSolverCSP.dll
